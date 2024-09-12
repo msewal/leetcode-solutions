@@ -12,7 +12,9 @@ This repository is a valuable resource for practicing coding skills, learning ne
 
 ## How to Use
 **1) Browse Problems:** Navigate through the directories to find problems categorized by difficulty (Easy, Medium, Hard) and topic (Arrays, Strings, Dynamic Programming, etc.).
+
 **2) View Solutions:** Open the relevant files to see the problem statement, approach, and code implementation.   
+
 **3) Test Solutions:** You can run the provided code examples in your local development environment to verify the solutions.
 
 ## Directory Structure
